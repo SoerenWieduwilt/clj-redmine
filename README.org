@@ -1,0 +1,25 @@
+* clj-redmine
+
+A Clojure client to access the REST-API of Redmine.
+
+** Motivation
+
+It just seemed easier to write this from scratch in Clojure than to
+adapt the existing Java-library (see Links below) and rely on that.
+Other than that it was fun and is a nice project for Sören and
+Johannes.  :-)
+
+** Usage
+
+FIXME: write
+
+** Links
+
+   http://www.redmine.org/projects/redmine/wiki/Rest_api
+   http://code.google.com/p/redmine-java-api/
+   
+** License
+
+Copyright (C) 2011 Kamphausen, Westenhöfer, Wieduwilt
+
+Distributed under the Eclipse Public License, the same as Clojure.
